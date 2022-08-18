@@ -41,7 +41,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['ur number'] //ur owner number
+global.owner = ['923117476345'] //ur owner number
 global.ownername = "ur name"
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
@@ -55,7 +55,7 @@ global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
 global.author = "🦄Dream Guy Xeon"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['ur number'] //ur owner tag
+global.ownertag = ['923117476345'] //ur owner tag
 global.ownernummenu = ['ur number'] //ur owner number in menu and all
 global.watermark = "Xeon Bot Inc." //ur watermark
 global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
